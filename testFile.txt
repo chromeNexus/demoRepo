@@ -6,3 +6,11 @@ delete
 
 Test edit 
 1st set of changes  
+
+
+This is the 2nd set of changes made for the github demoRepo
+
+Chromebook demo 
+
+
+Test project
